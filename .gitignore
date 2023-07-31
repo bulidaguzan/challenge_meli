@@ -1,1 +1,9 @@
+# envireoments
+challenge_meli_env
+
+# cache
+__pycache__
+
+# VsCode
 .vscode
+

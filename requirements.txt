@@ -1,0 +1,8 @@
+mysql-connector-python==8.0.33
+fastapi==0.100
+uvicorn==0.23
+typing-extensions==4.7.1
+redis==4.6
+requests
+python-owasp-zap-v2.4
+SQLAlchemy==2.0.19
